@@ -1,8 +1,6 @@
 ; DRAW ELEVATION PROFILE
 ; ----------------------
-; This program draws (a) an elevation profile along the E-W direction,
-; (b) include axis lines, (c) annotate points, and (d) draw hatches under
-; some of the points.
+; This program draws an elevation profile along the E-W direction
 
 (vl-load-com) 
 (setq acadDocument (vla-get-activeDocument (vlax-get-acad-Object )))        ; set active Document
@@ -35,7 +33,7 @@
 
     (setq endPoint   (vlax-3d-point (atof pt1)  (atof pt2) 0))
   
-    (setq myLine (vla-addLine mspace startPoint endPoint))
+    (setq myLine (vla-addLine mspace startPoint endPoint))                ; Draw line
     (setq starPoint endPoint)
   )
     
