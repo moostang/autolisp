@@ -12,7 +12,7 @@
 ;                     -------------------------------                      ;
 ;
 ; Directories
-(setq fDir "\\\\sfrldc01.internal.sfrlconsultants.com\\users\\Ggurung\\Documents\\AUTOLISP\\")
+(setq fDir "//")
 
 ; Profile variables
 (setq xAxisInterval 1000                                                     ; Distance between each 
