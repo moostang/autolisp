@@ -16,9 +16,10 @@
 ;;                                                                           ;;
 ;; USAGE:                                                                    ;;
 ;;                                                                           ;;
-;;     (chainageLabel chainage)                                              ;;
+;;    _$ (setq test_label (chainageLabel 123456)                             ;;
+;;    _$ 123+456                                                             ;;
 ;;                                                                           ;;
-;; Created on: May 31, 2019                                                ;;
+;; Created on: May 31, 2019                                                  ;;
 ;; ------------------------------------------------------------------------- ;;
 ;; ------------------------------------------------------------------------- ;;
 (defun chainageLabel (chainage / prefix suffix                
