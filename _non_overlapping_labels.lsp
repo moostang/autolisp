@@ -5,7 +5,7 @@
 ; This program creates NON-OVERLAPPING labels that is associated with a    ;
 ; leader at each station.                                                  ;
 ;
-
+;; Written by: Gyanendra Gurung                                           ;;
 ; ------------------------------------------------------------------------ ;
 ; ------------------------------------------------------------------------ ;
 ;                     D E F I N E   V A R I A B L E S                      ;
