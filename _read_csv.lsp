@@ -1,4 +1,5 @@
 ; Program to read CSV file
+;; Written by: Gyanendra Gurung                                              ;;
 (vl-load-com) 
 (setq acDoc (vla-get-activeDocument (vlax-get-acad-Object ))         ; set active Document
 )
