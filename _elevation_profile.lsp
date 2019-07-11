@@ -1,5 +1,7 @@
 ; DRAW ELEVATION PROFILE
 ; ----------------------
+;; Written by: Gyanendra Gurung                                              ;;
+
 ; This program draws an elevation profile along the E-W direction
 
 (vl-load-com) 
