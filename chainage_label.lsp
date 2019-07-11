@@ -18,7 +18,8 @@
 ;;                                                                           ;;
 ;;     (chainageLabel chainage)                                              ;;
 ;;                                                                           ;;
-;; Created on: May 7, 2019                                                ;;
+;; Created on: May 7, 2019                                                   ;;
+;; Written by: Gyanendra Gurung                                              ;;
 ;; ------------------------------------------------------------------------- ;;
 ;; ------------------------------------------------------------------------- ;;
 (defun chainageLabel (chainage / prefix suffix                
